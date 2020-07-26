@@ -2,6 +2,8 @@
 <img src="./Images/Team%20logo.jpeg" alt="team logo" width="200" height="200">
 </p>
 
+# The Bot_Alpha Project
+
 ## The Inception of this project
  
    The death count in emergencies is high, not only because of the people present there
