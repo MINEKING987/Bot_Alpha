@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Images/Team%20logo.jpeg" alt="alt text" width="200" height="200">
+<img src="./Images/Team%20logo.jpeg" alt="team logo" width="200" height="200">
 </p>
 
 ## The Inception of this project
@@ -26,6 +26,9 @@ Sending in another person to do this job will add risk to the already out-of-bal
   - Health Workers
   - Nurses or Helpers in a hospital setting.
 - In case of Fire accidents to check and alert the most affected regions for faster response
+<p align="center">
+<img src="./Images/rover.jpg" alt="rover image" width="300">
+</p>
 
 ## Parts/Software we used in building this
 ### Hardware
@@ -33,11 +36,12 @@ Sending in another person to do this job will add risk to the already out-of-bal
 - Pi cam
 - Chassis for rover
 - Motor controller Board
-- Geared Motors * 4
+- Geared Motors * 2
 - Power supply
+- UltraSonic Sensor
 ### Software
 - Python programmes for controlling the Rover wirelessly.
 - Python based web server for accessing live video data.
 - Html/javascript for web page integration of controls and videofeed.
 - Vnc viewer app to connect to Rpi
-
+- Python program to avoid object collision
